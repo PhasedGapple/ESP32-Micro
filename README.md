@@ -1,7 +1,8 @@
 # ESP32-Micro
 An ESP32-S3 which focuses on being a little long but really thin.
 # Downloader Wiring
-Left to right from USB C 4PIN Receptor: GND, D+, D-, VBUS
+Top/Bigger Pin Header: Left to right from USB C 4PIN Receptor: GND, D+, D-, VBUS
+Bottom: Replace with Pin Socket, my KiCad knowledge limitations made it show a Pin Header
 # Dimensions
 11x44mm (Height is unknown but supposed to be very thin)
 # Differences between the normal ESP32-S3 vs ESP32 Micro
