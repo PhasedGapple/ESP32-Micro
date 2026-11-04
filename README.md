@@ -4,7 +4,7 @@ An ESP32-S3 which focuses on being a little long but really thin.
 Left to right from USB C 4PIN Receptor: GND, D+, D-, VBUS
 # Dimensions
 11x44mm (Height is unknown but supposed to be very thin)
-# Differences between the normal ESP32-S3 vs ESP32 Microo
+# Differences between the normal ESP32-S3 vs ESP32 Micro
 - No built-in LEDs
 - Very poor wifi range because the board doesnt have an antenna. You can put a metal wire on the antenna pin before soldering if you really want wifi or bluetooth.
 - No VIN pins so you cant power it through a 5V pin.
