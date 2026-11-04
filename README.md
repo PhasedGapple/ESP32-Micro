@@ -16,6 +16,6 @@ Left to right from USB C 4PIN Receptor: GND, D+, D-, VBUS
 <img width="1153" height="454" alt="image" src="https://github.com/user-attachments/assets/d5ce8461-e79d-4ed6-a481-f95c3eddfcfc" />
 
 # Info
-Thank you a lot from Fabricate - Hack Club, I really appreciate you and it helped me fund this project, this project is something I really need for my other projects
+Thank you a lot from Fabricate - Hack Club, I really appreciate you and it helping me and other poeple fund this project, this project is something I really need for my other projects
 
 I used AI to research stuff like what parts I would need and some other stuff. I verify everything I'm not sure of.
