@@ -5,7 +5,7 @@
 "J1,J2","2","Conn_01x06_Pin","https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?productIds=1005007564228387:12000041314583356"
 "J3","2","Conn_01x04_Pin","https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?productIds=1005007564228387:12000041314583356"
 "J5","2","Conn_01x04_Socket","https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?productIds=1005001994398359:12000018350177554"
-"J4","1","USB C Receptor 4Pin (with CC resistors built-in)",""
+"J4","1","USB C Breakout 4Pin (with CC resistors built-in)","https://www.ebay.de/itm/336318919316"
 "R1,R2","2","RES 5.1 kΩ / 01005 (0402)","https://de.aliexpress.com/item/1005007321147232.html"
 "SW1,SW2","2","SKRKAEE020","https://de.aliexpress.com/item/1005004288233289.html"
 "U1","1","ESP32-S3FH4R2","https://www.mouser.de/en/ProductDetail/Espressif-Systems/ESP32-S3FH4R2"
