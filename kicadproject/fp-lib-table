@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "ESP32 Micro") (type "KiCad") (uri "C:/Users/allan/Documents/ESP32 Micro.pretty") (options "") (descr ""))
+	(lib (name "ESPRESSIF_ESP32-S3FH4R2") (type "KiCad") (uri "${KIPRJMOD}/ESPRESSIF_ESP32-S3FH4R2.pretty") (options "") (descr ""))
+)
